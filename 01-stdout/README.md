@@ -87,7 +87,7 @@ Linux
 
 ### Project
 
-![Project](screenshots/project.png)
+![Project](screenshots/project1.png)
 
 ---
 

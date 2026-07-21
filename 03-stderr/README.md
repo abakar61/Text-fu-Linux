@@ -129,7 +129,7 @@ Run the script:
 
 ### Project
 
-![Project](screenshots/project.png)
+![Project](screenshots/project1.png)
 
 ---
 
