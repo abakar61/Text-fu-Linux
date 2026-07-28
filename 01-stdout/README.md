@@ -1,4 +1,4 @@
-# Linux Project 02 - Standard Output (stdout)
+# Linux Project 01 - Standard Output (stdout)
 
 ## Objective
 

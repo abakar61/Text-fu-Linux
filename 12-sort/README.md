@@ -1,4 +1,4 @@
-# Linux Project 14 - sort (Sort Text Files)
+# Linux Project 12 - sort (Sort Text Files)
 
 ## Description
 

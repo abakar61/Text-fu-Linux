@@ -1,4 +1,4 @@
-# Linux Project 05 - Pipe and Tee
+# Linux Project 04 - Pipe and Tee
 
 ## Objective
 

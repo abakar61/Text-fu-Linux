@@ -1,4 +1,4 @@
-# Linux Project 08 - cut (Extract Text)
+# Linux Project 06 - cut (Extract Text)
 
 ## Description
 

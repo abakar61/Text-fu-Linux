@@ -1,4 +1,4 @@
-# Linux Project 16 - uniq (Unique)
+# Linux Project 14 - uniq (Unique)
 
 ## Description
 

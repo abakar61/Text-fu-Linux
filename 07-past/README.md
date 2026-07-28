@@ -1,4 +1,4 @@
-# Linux Project 09 - paste (Merge Lines)
+# Linux Project 07 - paste (Merge Lines)
 
 ## Description
 
